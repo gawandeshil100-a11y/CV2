@@ -364,7 +364,7 @@ The following improvements can be added in future versions of this project:
 
 ## 👨‍💻 Author
 
-**Suji Prasanth**
+**Shil Gawande**
 
 **Data Analyst | Excel | Python | MySQL | Power BI**
 
@@ -372,6 +372,6 @@ Passionate about transforming raw data into actionable business insights through
 
 ### 🌐 Connect with Me
 
-- 💻 GitHub: https://github.com/sujiprasanth
-- 💼 LinkedIn: https://www.linkedin.com/in/suji-prasanth
-- 🌐 Portfolio: https://sujiprasanth.netlify.app/
+- 💻 GitHub: 
+- 💼 LinkedIn: https://www.linkedin.com/in/shilgawande2004
+- 9172937014
